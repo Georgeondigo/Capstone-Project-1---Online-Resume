@@ -1,2 +1,2 @@
 # html-portfolio
-This is a resume written using the  html containing ay infomation
+This is a resume written using the  html containing my infomation
